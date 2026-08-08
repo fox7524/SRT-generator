@@ -1,0 +1,4 @@
+PyQt6>=6.5.0
+mlx-whisper
+openai-whisper
+ffmpeg-python
